@@ -1,0 +1,17 @@
+"Exceeded maximum execution time" エラーの対策：
+可能です。Google Apps Scriptの実行制限（約6分）を考慮して、5分で強制終了する仕組みを実装できます。
+
+実装案：
+
+処理開始時にタイムスタンプを記録
+各処理ブロックの合間に経過時間をチェック
+5分（300秒）を超えたら処理を中断
+
+----
+
+var startTime = new Date().getTime();
+// 処理中...
+if (new Date().getTime() - startTime > 300000) { // 5分
+  Logger.log("タイムアウトにより処理を終了");
+  return;
+}
