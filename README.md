@@ -13,9 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- Revision history
+- Rev.1.0：ファーストリリース、22/June/2026 
+-
+
 -->
 
-# Terry — project-dawn
+# Main project — project-dawn
 
 AI と人間が並走しながら未来を探る、  
 トレイルランナー向けオンデバイス AI サポート＆ペーサーシステムの長期プロジェクト。  
@@ -24,9 +29,9 @@ AI と人間が並走しながら未来を探る、
 
 ---
 
-## 🎖 project-dawn Morale Patch  
+## 🎖 Projects Morale Patch  
 AI × Trail Running × AGI Research  
-このプロジェクトの象徴としてデザインしたモラールパッチ。
+これらプロジェクトの象徴としてデザインしたモラールパッチ。
 
 ![project-dawn patch](assets/cat_raid_on_shark.png)
 
